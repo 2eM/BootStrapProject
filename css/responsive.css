@@ -1,0 +1,7 @@
+@media(max-width: 991px){
+    .adres,
+    #contact .headerH3{
+        text-align:center;
+    }
+    
+}
