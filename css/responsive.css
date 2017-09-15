@@ -4,6 +4,8 @@
         text-align:center;
     }
     
+   
+    
     #about #photo{
         padding-bottom: 20px;
     }
@@ -18,4 +20,12 @@
     
   
     
+}
+
+
+@media(max-width:767px){
+    
+     #about div:nth-child(2){
+        text-align: center;
+    }
 }
