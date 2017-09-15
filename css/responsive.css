@@ -4,4 +4,18 @@
         text-align:center;
     }
     
+    #about #photo{
+        padding-bottom: 20px;
+    }
+      footer p{
+        padding-left: 0;
+        
+    }
+    
+    footer{
+        text-align: center ;
+    }
+    
+  
+    
 }
