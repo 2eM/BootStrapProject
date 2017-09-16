@@ -287,3 +287,11 @@ footer p {
 
 
 /* <!--Stopka koniec--> */
+
+.submit{
+    color:red;
+}
+
+.fa-envelope-o{
+    font-size: 14px;
+}
